@@ -1,0 +1,398 @@
+[
+    {
+        "question": "what's your name ?",
+        "answer": "Iyed Djebbi ."
+    },
+    {
+        "question": "Tell me about yourself.",
+        "answer": "I'm a data engineer student in the faculty of sciences of sfax passio with a strong interest in AI and machine learning. I have experience working on object detection projects using YOLOv8 and deploying machine learning models. I enjoy solving challenging problems and am eager to apply my skills in a practical, collaborative environment ."
+    },
+    {
+        "question": "Why do you want to do an internship with us?",
+        "answer": "I am impressed by your company's reputation for innovation and excellence in AI and machine learning . Joining your team would provide me with an opportunity to learn from industry experts and contribute to impactful projects. I believe this internship aligns perfectly with my career goals and would allow me to apply my skills while gaining valuable hands-on experience ."
+    },
+    {
+        "question": "What interests you about this industry?",
+        "answer": "I'm fascinated by AI's potential to solve real-world problems and innovate industries. The ability to use data to drive intelligent decisions and create impactful solutions excites me."
+    },
+    {
+        "question": "Where do you see yourself in five years?",
+        "answer": "In five years, I see myself as a skilled AI/machine learning engineer, working on impactful projects and contributing to innovative solutions."
+    },
+    {
+        "question": "How did you hear about this internship?",
+        "answer": "I found a post about it in Linkedin ."
+    },
+    {
+        "question": "Why are you interested in this specific role?",
+        "answer": "I'm interested in this role because it aligns with my skills in AI/machine learning and offers the chance to work on innovative projects while learning from experts."
+    },
+    {
+        "question": "What do you hope to learn from this internship?",
+        "answer": "I hope to gain hands-on experience with real-world AI/machine learning projects, learn industry best practices, and improve my skills in model deployment and problem-solving."
+    },
+    {
+        "question": "What are your strengths and weaknesses?",
+        "answer": "I'm a quick learner, and skilled in problem-solving, particularly in AI and machine learning tasks ,but sometimes i waste a lot of time and loose focus on my main objectives ."
+    },
+    {
+        "question": "Why should we hire you for this internship?",
+        "answer": "You should hire me because I have a strong foundation in AI/machine learning, a passion for solving real-world problems, and a drive to learn. I'm eager to contribute my skills to your team while gaining hands-on experience in a dynamic environment."
+    },
+    {
+        "question": "Tell me about a time when you had to overcome a challenge.",
+        "answer": "During exams last semester, I almost failed due to poor time management. I reassessed my study plan, sought help, and put in extra effort. As a result, I passed the exam and learned the importance of planning and seeking support when needed."
+    },
+    {
+        "question": "What are your short-term career goals?",
+        "answer": "gain experience in the field of AI/machine learning ."
+    },
+    {
+        "question": "What motivates you to succeed?",
+        "answer": "Money ,to be honest, i want to have my own project that provides a good income for me so i can live my dream life ."
+    },
+    {
+        "question": "How do you prioritize tasks?",
+        "answer": "I prioritize tasks by assessing their urgency and impact. I break down larger tasks into smaller, manageable steps, and focus on high-priority items first while staying flexible for unexpected changes."
+    },
+    {
+        "question": "How do you handle stress and pressure?",
+        "answer": "I handle stress by staying organized , and maintaining a positive mindset. I focus on solutions and prioritize tasks to stay calm and productive under pressure."
+    },
+    {
+        "question": "What makes you a good fit for our company culture?",
+        "answer": "I believe in collaboration, continuous learning, and innovation, which aligns with your company's values. I'm eager to contribute, adapt to new challenges, and grow within a dynamic team."
+    },
+    {
+        "question": "Can you describe a situation where you worked in a team?",
+        "answer": "During my last internship, I worked in a team to develop an object detection model using YOLO. We collaborated to collect and annotate data, train the model, and evaluate its performance.The experience taught me the importance of clear communication and teamwork in achieving project goals."
+    },
+    {
+        "question": "How would your friends or professors describe you?",
+        "answer": "I honestly dont attend the university that much so i dont think that my professors know me well but my friends would describe me as motivated, self-driven, and always eager to learn."
+    },
+    {
+        "question": "What are you most proud of in your academic achievements?",
+        "answer": "I'm most proud of my work in AI and machine learning, particularly the projects where I applied concepts like object detection with YOLO. These projects pushed me to learn new techniques and gave me practical skills that I'm eager to build on."
+    },
+    {
+        "question": "How do you approach problem-solving?",
+        "answer": "I approach problem-solving by understanding the issue, breaking it down into smaller tasks, and prioritizing solutions. I stay flexible and adapt my approach as needed, often seeking input from others when necessary."
+    },
+    {
+        "question": "What is your greatest accomplishment?",
+        "answer": "My greatest accomplishment by far is completing the machine learning specialization on Coursera. It deepened my knowledge of algorithms and practical applications, and equipped me with the skills to tackle real-world problems using AI."
+    },
+    {
+        "question": "What programming languages are you familiar with?",
+        "answer": "python , i used to be familiar with java and c++ but i dont use them that much now ."
+    },
+    {
+        "question": "Can you explain the difference between object-oriented and functional programming?",
+        "answer": "OOP organizes code into objects and classes, focusing on data and behavior, with concepts like inheritance and polymorphism while FP treats computation as functions, emphasizing immutability, higher-order functions, and avoiding mutable data."
+    },
+    {
+        "question": "How would you describe the importance of version control systems like Git?",
+        "answer": "Version control systems like Git are crucial for tracking changes, collaborating on projects, and maintaining code history. They allow multiple developers to work on the same codebase without conflicts and provide a way to revert to previous versions if needed."
+    },
+    {
+        "question": "What is a data structure you\u00e2\u20ac\u2122ve used extensively?",
+        "answer": "lists"
+    },
+    {
+        "question": "Have you worked with databases? Which ones?",
+        "answer": "Yes , i've worked with Mysql database in an academic warehouse project"
+    },
+    {
+        "question": "What\u00e2\u20ac\u2122s your experience with data analysis or data processing tools?",
+        "answer": "I have experience with tools like SSIS for ETL processes, SSAS for data analysis, and MySQL for querying and managing large datasets. Additionally, I've worked with Python libraries like Pandas and NumPy for data processing and analysis."
+    },
+    {
+        "question": "Have you worked with cloud computing services? If so, which ones?",
+        "answer": "Yes, I've worked with cloud services like Azure for machine learning during my last summer internship, i also used a lot kaggle notebooks and free gpus to train cumputer vision models"
+    },
+    {
+        "question": "Can you explain the concept of machine learning to someone with no technical background?",
+        "answer": "Machine learning is when computers learn from data to make predictions or decisions without being programmed for specific tasks."
+    },
+    {
+        "question": "Have you used any version control systems like Git or SVN?",
+        "answer": "Yes ,I use git and i used gitlab last year in an academic course ."
+    },
+    {
+        "question": "What is the difference between SQL and NoSQL databases?",
+        "answer": "SQL databases are relational and use structured tables with predefined schemas, making them suitable for structured data. NoSQL databases are non-relational, flexible, and can handle unstructured or semi-structured data."
+    },
+    {
+        "question": "How would you debug a code issue you encounter?",
+        "answer": "I would start by reviewing the error message, checking the code flow, and isolating the problem. I'd use print statements or a debugger to track variables and identify where things go wrong, I also use alot chatgpt to help fix the issue ."
+    },
+    {
+        "question": "What is the most complex project you\u00e2\u20ac\u2122ve worked on and what was your role in it?",
+        "answer": "The most complex project that i worked on was during my last summer internsip where i had to train a yolo model to detect construction vehicles where i had to collect data from the internet ( about 21000 annotated image) and then train the model on this dataset."
+    },
+    {
+        "question": "How would you handle missing or corrupted data in a dataset?",
+        "answer": "I would first identify and analyze the extent of the missing or corrupted data. Depending on the situation, I'd either impute missing values, remove affected rows, or use techniques like interpolation. For corrupted data, I'd clean it by fixing the issues or replacing it if necessary."
+    },
+    {
+        "question": "Can you describe what a neural network is?",
+        "answer": "A neural network is a machine learning model inspired by the human brain. It consists of layers of interconnected nodes (neurons) that process information, learn patterns from data, and make predictions or decisions."
+    },
+    {
+        "question": "What\u00e2\u20ac\u2122s the difference between a supervised and unsupervised learning model?",
+        "answer": "Supervised learning uses labeled data to train the model to predict outcomes. Unsupervised learning works with unlabeled data, finding patterns and structures on its own."
+    },
+    {
+        "question": "Have you worked with any web development frameworks?",
+        "answer": "only flask and not that much ."
+    },
+    {
+        "question": "What experience do you have with testing and quality assurance?",
+        "answer": "to be honest except the academic ISTQB course i dont know much ?"
+    },
+    {
+        "question": "What is an API, and how do you use it?",
+        "answer": "An API is a set of rules that allows different software applications to communicate with each other. You use an API by sending requests (e.g., GET, POST) to interact with a service or retrieve data, often in JSON format, and processing the response."
+    },
+    {
+        "question": "Can you explain the concept of big data and its challenges?",
+        "answer": "Big data refers to large, complex datasets that are difficult to process using traditional data management tools. Challenges include data storage, processing speed, privacy concerns, data integration, and ensuring data quality and security."
+    },
+    {
+        "question": "How would you improve the performance of a slow-running program?",
+        "answer": "I would start by profiling the code to identify bottlenecks, then optimize critical sections, such as inefficient algorithms or excessive memory usage. I might also consider parallelization, caching, or using more efficient data structures to improve performance."
+    },
+    {
+        "question": "How would you approach a project you\u00e2\u20ac\u2122ve never worked on before?",
+        "answer": "I would start by researching the project requirements and understanding the goals. Next, I'd break the project into smaller tasks, seek advice from experts if needed, and gradually build my knowledge. I'd also continuously test and refine my approach to ensure progress."
+    },
+    {
+        "question": "What would you do if you disagree with a team member on how to approach a task?",
+        "answer": "I would discuss the issue calmly, listen to their perspective, and present my reasoning. I'd try to find a compromise or alternative solutions that address both viewpoints. If needed, we could involve a supervisor for guidance."
+    },
+    {
+        "question": "Describe a time when you had to learn something new quickly to solve a problem.",
+        "answer": "We had a project if the university where i had to develop a web application but i knew nothing about web development except some basic HTML and css , so i quickly learned flask and built the web application ."
+    },
+    {
+        "question": "How do you handle tight deadlines?",
+        "answer": "I prioritize tasks based on urgency and importance, break them down into manageable steps, and stay focused on completing one task at a time. I also communicate with the team if I need support or if adjustments are needed to meet the deadline."
+    },
+    {
+        "question": "Can you tell us about a time when you had to make a decision with limited information?",
+        "answer": "In a previous project, I had to choose between different machine learning models with limited performance data. I based my decision on available benchmarks and past experiences, then iterated quickly, fine-tuning the model as I gathered more insights."
+    },
+    {
+        "question": "How would you prioritize multiple tasks with the same deadline?",
+        "answer": "I would assess the impact and complexity of each task, then tackle the most critical or time-consuming ones first. I'd break them down into smaller steps and delegate if possible. Regular progress checks help ensure everything is on track."
+    },
+    {
+        "question": "If you were given a task you didn\u00e2\u20ac\u2122t understand, how would you approach it?",
+        "answer": "I would start by clarifying the task requirements with the person who assigned it, then break it down into smaller, manageable parts. I'd research, seek advice from experts, and test different approaches to ensure I'm heading in the right direction."
+    },
+    {
+        "question": "What would you do if you found an error in a project you were working on?",
+        "answer": "I would first investigate the error to understand its cause, then try to fix it by reviewing the code or steps that led to the issue. If needed, I would test the solution thoroughly and communicate with the team to ensure the fix aligns with project goals."
+    },
+    {
+        "question": "Can you walk us through a time when you had to analyze a problem and provide a solution?",
+        "answer": "During an internship, I was tasked with improving the accuracy of an object detection model. I analyzed the training data and identified that it was imbalanced. I then applied data augmentation and adjusted the model's hyperparameters, which significantly improved the results."
+    },
+    {
+        "question": "How would you go about investigating and solving a technical issue you don\u00e2\u20ac\u2122t know how to fix?",
+        "answer": "I would start by researching the error or issue online, reviewing documentation, and checking forums for similar problems. If needed, I'd isolate the issue by simplifying the code or system, then try different solutions and test to see what works. If still unresolved, I'd consult with colleagues or experts."
+    },
+    {
+        "question": "How do you communicate complex ideas to non-technical people?",
+        "answer": "I break down complex concepts into simple, relatable terms and use analogies. I focus on the main idea and avoid jargon, ensuring the person understands the value or impact of the concept rather than the technical details."
+    },
+    {
+        "question": "Describe a time when you had to collaborate with a team to achieve a goal.",
+        "answer": "During a university project, I collaborated with a team to develop a web app. We divided tasks such as front-end design, back-end development, and database management. Through consistent communication and teamwork, we successfully built and deployed the app on time."
+    },
+    {
+        "question": "How do you handle feedback from others?",
+        "answer": "I view feedback as an opportunity to improve. I listen carefully, ask for clarification if needed, and use it to adjust my approach. I make sure to apply constructive criticism to enhance my work, while also staying open to suggestions for further growth."
+    },
+    {
+        "question": "How do you manage conflicts within a team?",
+        "answer": "I address conflicts by listening to all parties involved, understanding their perspectives, and finding common ground. I encourage open communication and focus on resolving issues through collaboration and compromise to keep the team aligned and productive."
+    },
+    {
+        "question": "Can you describe a situation where you had to work with someone who had a different working style than you?",
+        "answer": "To be honest i didn't experience something like that because i usualy choose people with the same working style as me to work with , but i dont think it would be a problem for me to work with someone with a different working style ."
+    },
+    {
+        "question": "How would you handle receiving constructive criticism?",
+        "answer": "I view constructive criticism as a chance to grow. I listen attentively, seek clarification if needed, and apply the feedback to improve my work. I appreciate feedback as it helps me refine my skills and approach."
+    },
+    {
+        "question": "How do you keep everyone on a team motivated?",
+        "answer": "I keep the team motivated by setting clear goals, recognizing individual contributions, and maintaining open communication. I encourage collaboration, celebrate milestones, and ensure everyone feels valued and aligned with the project's purpose."
+    },
+    {
+        "question": "How do you handle working in a remote or virtual environment?",
+        "answer": "I thrive in a remote environment, as it allows me to manage my time efficiently and work in a focused setting. I maintain clear communication through tools like Slack or Zoom, stay organized with task management software, and ensure regular check-ins with the team to stay aligned."
+    },
+    {
+        "question": "How would you explain a complex technical concept to someone unfamiliar with it?",
+        "answer": "I would break the concept down into simple, relatable terms and use analogies to make it more understandable. I focus on explaining the core idea and its real-world impact, avoiding technical jargon to ensure the person grasps the main points."
+    },
+    {
+        "question": "Tell me about a time when you had to give a presentation. How did you prepare for it?",
+        "answer": "During my internship, I gave a presentation to my professor about the project's progress. I prepared by outlining the key points, creating visuals to support my explanation, and practicing multiple times to ensure a smooth delivery. I also anticipated possible questions and prepared answers in advance."
+    },
+    {
+        "question": "Tell me about a time when you had to work under pressure.",
+        "answer": "During exam season, I had a limited time to review for multiple subjects. I created a study schedule, prioritized the most important topics, and stayed focused, working efficiently under pressure. Despite the stress, I managed to complete my revisions and perform well on the exams."
+    },
+    {
+        "question": "Have you ever taken on a leadership role? What was your approach?",
+        "answer": "I haven't had a formal leadership role yet, but I take initiative in group projects by offering support, helping with organization, and ensuring everyone is aligned on tasks. I focus on clear communication and fostering collaboration within the team."
+    },
+    {
+        "question": "Describe a situation where you made a mistake. How did you handle it?",
+        "answer": "In my first semester, I struggled with my grades due to poor time management. I acknowledged my mistake, sought feedback from professors, and implemented a more structured study schedule. With better planning and focus, my grades improved in the following semesters."
+    },
+    {
+        "question": "Tell me about a time when you had to work with limited resources.",
+        "answer": "I trained a neural network for a computer vision project on the kaggle notebook with their 30 hours free gpu usage , i had to keep saving the model and rerun it again next week when i get another free 30 hours ."
+    },
+    {
+        "question": "Have you worked in a team where there was conflict? How did you resolve it?",
+        "answer": "Yes, during a project, there was a disagreement about the approach we should take. I facilitated open communication, encouraged everyone to share their perspectives, and helped the team find a compromise. We focused on the common goal, which allowed us to resolve the conflict and move forward successfully."
+    },
+    {
+        "question": "Describe a time when you had to step outside your comfort zone.",
+        "answer": "I had to step outside my comfort zone when I started working out. Initially, I found it challenging, but I set clear goals and stayed consistent. Over time, I became more comfortable and saw significant improvements in my physical and mental well-being."
+    },
+    {
+        "question": "Tell me about a time when you had to adapt to a significant change.",
+        "answer": "When I moved to living alone in my first year of university, it was a big change. I had to manage my own time, finances, and daily responsibilities. I adapted by creating a routine, staying organized, and learning to balance my studies with personal tasks, which helped me adjust to my new environment."
+    },
+    {
+        "question": "Can you describe a situation where you showed initiative at school or work?",
+        "answer": "During a university project, I noticed our team was falling behind on deadlines. I took the initiative to reorganize the task assignments, created a clear timeline, and ensured everyone stayed on track. This helped the team finish the project on time and to a high standard."
+    },
+    {
+        "question": "How do you handle tasks that you find boring or repetitive?",
+        "answer": "I stay focused on the bigger picture and remind myself of the task's importance. I break it into smaller chunks to make it more manageable and try to find ways to improve efficiency, keeping myself motivated throughout the process."
+    },
+    {
+        "question": "Can you describe a time when you showed strong leadership skills?",
+        "answer": "While I haven't held a formal leadership role, I demonstrated leadership during a university group project. I coordinated tasks, kept the team focused, and ensured communication flowed smoothly. When challenges arose, I helped guide the team toward solutions, ensuring we stayed on track."
+    },
+    {
+        "question": "What do you know about our company?",
+        "answer": "I've researched your company and found that you're a leader in the AI domain, focusing on model deveopment. Your commitment to innovation aligns with my interests, particularly in the AI field .I'm excited about the opportunity to contribute to your team."
+    },
+    {
+        "question": "Why do you want to work with us over other companies?",
+        "answer": "I'm excited about the opportunity to work with your company because of your innovative approach to AI and machine learning. The impactful projects you're involved in align with my passion for AI and my experience in the field. I'm eager to contribute to your mission and further develop my skills in a dynamic, forward-thinking environment."
+    },
+    {
+        "question": "How do you think your skills will contribute to our team?",
+        "answer": "My skills in AI and machine learning, particularly in model development and problem-solving, will contribute to your team by helping solve complex challenges efficiently. I'm adept at collaborating with others, and I bring a strong ability to quickly learn new technologies, which will help drive innovation and support the team in achieving its goals."
+    },
+    {
+        "question": "What trends do you think will affect our industry in the next few years?",
+        "answer": "In the next few years, I believe the AI and machine learning industry will see significant advancements in areas like deep learning, reinforcement learning, and generative AI. There will also be increased focus on explainability, fairness, and ethical AI. Additionally, edge computing and AI-powered automation will continue to transform industries, leading to more efficient and scalable solutions."
+    },
+    {
+        "question": "How do you stay updated on industry trends and advancements?",
+        "answer": "I stay updated by regularly reading industry blogs, research papers, and news sources like ArXiv, Medium, and tech news websites. I also participate in online courses, webinars, and conferences to deepen my knowledge. Networking with peers and professionals in AI/ML also helps me stay informed on the latest developments."
+    },
+    {
+        "question": "What challenges do you think our company is currently facing?",
+        "answer": "Based on my understanding, one of the challenges in the AI/ML industry is staying ahead of the rapidly evolving technology while ensuring ethical and responsible AI development. Additionally, scaling AI solutions effectively and managing the complexity of integrating them into various industries might pose challenges. Overcoming these requires constant innovation and collaboration, which I'm eager to contribute to."
+    },
+    {
+        "question": "Can you name a recent project or product we released that caught your attention?",
+        "answer": "no , i can't ."
+    },
+    {
+        "question": "What do you think is the most important quality for success in our industry?",
+        "answer": "I believe adaptability is the most important quality for success in the AI/ML industry. The field evolves rapidly, and being able to quickly learn new technologies, adapt to changing trends, and solve complex problems is key to staying competitive and driving innovation."
+    },
+    {
+        "question": "What do you think you\u00e2\u20ac\u2122ll be doing during your internship?",
+        "answer": "During my internship, I expect to be involved in hands-on work with AI/ML models, assisting with data processing, model training, and evaluation. I hope to contribute to ongoing projects, collaborate with the team to solve technical challenges, and learn from experienced professionals. I'm also eager to expand my knowledge in areas like model deployment and optimization."
+    },
+    {
+        "question": "Can you provide an example of a project you think would be a good fit for an intern?",
+        "answer": "A good project for an intern could be fine-tuning a pre-trained AI model on a specific dataset or automating parts of the data preprocessing pipeline. It would provide hands-on experience and contribute to real-world applications like classification or recommendation systems."
+    },
+    {
+        "question": "What specific skills do you hope to develop during this internship?",
+        "answer": "I hope to improve my skills in model optimization, data preprocessing, and deployment. I'm also eager to gain more experience with advanced AI techniques and deepen my knowledge in real-world applications of machine learning."
+    },
+    {
+        "question": "How do you approach learning new software or tools?",
+        "answer": "I start by understanding the basics through documentation and tutorials, then dive into practical projects to apply what I've learned. I also seek help from online communities and peers when I encounter challenges."
+    },
+    {
+        "question": "How would you handle a situation where you are asked to complete a task outside your scope of responsibilities?",
+        "answer": "I would first assess the task to understand its importance and how it aligns with team goals. If it's within my capability, I'd take it on, ensuring clear communication with my team about timelines. If it's beyond my expertise, I'd seek guidance or collaborate with others to complete it effectively."
+    },
+    {
+        "question": "What do you expect from a mentor during this internship?",
+        "answer": "I expect guidance on technical challenges, constructive feedback on my work, and advice on career development. I'm looking for a mentor who can provide support, share knowledge, and help me navigate real-world applications of AI/ML."
+    },
+    {
+        "question": "How would you go about conducting research for a technical project?",
+        "answer": "I would start by defining the problem and reviewing existing literature, documentation, and similar projects. Then, I'd experiment with different approaches, test solutions, and analyze results. I'd also collaborate with experts and use online communities to gather insights and refine my approach."
+    },
+    {
+        "question": "What kind of work environment do you thrive in?",
+        "answer": "I thrive in a collaborative, flexible, and remote-friendly environment where open communication is encouraged, and team members are empowered to take initiative. I prefer an environment that values continuous learning and supports innovation."
+    },
+    {
+        "question": "How would you handle multiple competing priorities in an internship?",
+        "answer": "I would prioritize tasks based on urgency and impact, breaking them into manageable steps. I'd communicate with my mentor or manager to align on expectations and ensure deadlines are met while maintaining quality."
+    },
+    {
+        "question": "What are your expectations regarding feedback and evaluations during this internship?",
+        "answer": "I expect constructive feedback on my work to help me improve and grow. Regular evaluations would help me understand my strengths and areas for improvement, guiding me to contribute more effectively to the team."
+    },
+    {
+        "question": "What do you want to achieve by the end of your internship?",
+        "answer": "I want to gain hands-on experience with real-world AI/ML applications, enhance my problem-solving skills, and make meaningful contributions to the team. I also hope to expand my technical knowledge and develop valuable industry connections."
+    },
+    {
+        "question": "How do you stay organized when managing multiple projects?",
+        "answer": "I use task management tools like Trello or Notion to track deadlines and prioritize tasks. I break down larger projects into smaller steps and set clear milestones, ensuring I stay on top of each project while maintaining focus on the most urgent tasks."
+    },
+    {
+        "question": "If we offered you the internship, how soon would you be able to start?",
+        "answer": "I would be able to start as soon as needed. I'm flexible with my start date and can accommodate any required onboarding processes."
+    },
+    {
+        "question": "Is there anything else you would like us to know about you?",
+        "answer": "I may not be the most experienced, but I can guarantee that I learn quickly and am fully committed to whatever task you assign. I'm always eager to improve and adapt, ensuring I contribute effectively to the team."
+    },
+    {
+        "question": "Why did you choose this specific career path?",
+        "answer": "I chose this path because studying data engineering at university introduced me to the field of AI and machine learning. I quickly became fascinated by how these technologies can transform data into meaningful insights and solve complex problems."
+    },
+    {
+        "question": "What are you hoping to gain from an internship experience in this field?",
+        "answer": "I hope to gain hands-on experience in AI and machine learning, strengthen my technical skills, and learn how to apply theory to real-world projects. I'm also excited to work with experienced professionals and grow my network in the industry."
+    },
+    {
+        "question": "How do you balance academics and extracurricular activities?",
+        "answer": "I prioritize my tasks and manage my time effectively. I set clear goals for both academics and extracurriculars, and I use tools like calendars and to-do lists to stay organized. When needed, I focus on one area at a time to ensure I'm giving my best effort in both."
+    },
+    {
+        "question": "What type of projects do you find most fulfilling?",
+        "answer": "I find projects that involve problem-solving and data analysis the most fulfilling, especially when I can apply AI and machine learning techniques to uncover insights or create efficient solutions. I enjoy challenges that allow me to learn and grow while contributing to meaningful outcomes."
+    },
+    {
+        "question": "Are you open to learning new skills and taking on challenges during your internship?",
+        "answer": "Yes, I'm eager to learn new skills and take on challenges. I believe every challenge is an opportunity to grow, and I'm always open to expanding my knowledge and adapting to new tasks."
+    },
+    {
+        "question": "Do you have any questions for us?",
+        "answer": "I do have a few questions regarding the internship. Firstly, I would like to know if the position is paid. Additionally, I'm curious whether the internship is remote or on-site. Lastly, could you please provide some details about the duration of the internship if I were to be accepted? These details will help me better understand the role and plan accordingly."
+    }
+]
